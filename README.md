@@ -4,6 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97" alt="adidev97" /></a> </p>
 
+<img align="right" alt="coding_animation" width="350" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" style="border-radius: 20px;">
+
 - 🔭 I’m currently working Cognizant Technology Solutionss [https://www.cognizant.com/in/en](https://www.cognizant.com/in/en)
 
 - 🌱 I’m currently learning **Data Structures and Algorithm, Spring Boot, ReactJs**
