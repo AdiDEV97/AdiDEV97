@@ -43,7 +43,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="Git" /> </a>&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adidev97&show_icons=true&locale=en&layout=compact" alt="adidev97" width="350" title="Language Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adidev97&show_icons=true&locale=en&layout=compact" alt="adidev97" width="350" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adidev97&show_icons=true&locale=en" alt="adidev97" width="380" /></p>
 
