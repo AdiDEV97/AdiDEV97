@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Adesh Vaidya</h1>
 <h3 align="center">A passionate Software Engineer from India on a Mission to Innovate and Collaborate in the Digital Frontier</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97" alt="adidev97" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&theme=onedark" alt="adidev97" /></a> </p>
 
 <img align="right" alt="coding_animation" width="300" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" style="border-radius: 20px;" title="Working Hard!!" >
