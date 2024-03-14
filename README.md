@@ -4,6 +4,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&theme=onedark" alt="adidev97" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="adidev97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="adidev97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="adidev97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="adidev97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=onedark" alt="adidev97" /></a> </p>
 
 
 
