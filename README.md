@@ -1,4 +1,4 @@
-![logo](https://github.com/AdiDEV97/AdiDEV97/blob/main/github-header-image.png)
+![logo](https://github.com/AdiDEV97/AdiDEV97/blob/main/github-header-image_4.png)
 
 <h1 align="center">Hi 👋, I'm Adesh Vaidya</h1>
 <h3 align="center">A passionate Software Engineer from India on a Mission to Innovate and Collaborate in the Digital Frontier</h3>
