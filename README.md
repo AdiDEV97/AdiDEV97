@@ -18,7 +18,6 @@
   <tr style="border=0px">
     <td style="border=0px"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&title=Experience&theme=onedark" /></td>
     <td style="border=0px"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&title=Experience&theme=onedark" /></td>
-    <td style="border=0px"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&title=Experience&theme=onedark" /></td>
   </tr>
  </table>
  -->
