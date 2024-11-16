@@ -15,8 +15,6 @@
 
 <!--
 <table style="border=0px">
-  <tr style="border=0px">
-  </tr>
  </table>
  -->
 
