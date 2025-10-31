@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&title=Commits&theme=onedark" alt="adidev97" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&title=Experience&theme=onedark" alt="adidev97" /></a> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&title=Followers&theme=onedark" alt="adidev97" /></a> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adidev97&title=Repositories&theme=onedark" alt="adidev97" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel. app/?username=adidev97&title=Repositories&theme=onedark" alt="adidev97" /></a> </p>
 -->
 
 
