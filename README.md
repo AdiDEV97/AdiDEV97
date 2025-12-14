@@ -14,7 +14,7 @@
 -->
 
 
-<img align="right" alt="coding_animation" width="300" src="https://cdn.dribbble.com/users/461802/screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" style="border-radius: 20px;" title="Working Hard!!" >
+<img align="right" alt="coding_animation" width="300" src="https://cdn.dribbble.com/users/461802 /screenshots/4753031/media/4711ad8d0ba0dcd367061aa7841f8107.gif" style="border-radius: 20px;" title="Working Hard!!" >
 
 - 🔭 I’m currently working at Flipkart <img alt="Flipkart" width="15" src = "https://i.pinimg.com/736x/33/b2/25/33b225e7ad61fd5dfc3cb14661b9f604.jpg">
 
