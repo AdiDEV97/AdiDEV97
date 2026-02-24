@@ -18,8 +18,6 @@
 
 - 🔭 I’m currently working at Flipkart <img alt="Flipkart" width="15" src = "https://i.pinimg.com/736x/33/b2/25/33b225e7ad61fd5dfc3cb14661b9f604.jpg">
 
-- 🌱 I’m currently learning **Data Structures and Algorithm, Spring Boot, ReactJs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AdiDEV97](https://github.com/AdiDEV97)
 
 - 💬 Ask me about **SpringBoot, React, Data Structures and Algorithms, Python**
